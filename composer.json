@@ -1,0 +1,14 @@
+{
+    "name": "shiwuhao/package-test",
+    "description": "shiwuhao test",
+    "type": "ph",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shiwuhao",
+            "email": "shiwuhao@shiwuhao.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
